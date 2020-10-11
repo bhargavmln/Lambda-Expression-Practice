@@ -15,5 +15,6 @@ public class LambdaDemo {
 		System.out.println("Addition is :" + add.calculate(6,3));
 		System.out.println("Multiplication is :" + multiply.calculate(6, 3));
 		System.out.println("Division is :" + divide.calculate(6, 3));
+	
 	}
 }
